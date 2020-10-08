@@ -1,3 +1,7 @@
+#### Name: [NEELADRI KUMAR](https://github.com/NeeladriKumar20)
+-   Place: India
+-   Bio: Engineering Student
+-   Github: [NeeladriKumar20](https://github.com/NeeladriKumar20)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
